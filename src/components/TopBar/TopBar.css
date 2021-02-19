@@ -1,0 +1,11 @@
+.top_bar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 15px;
+    background-color: darkblue;
+    color: white;
+    box-shadow: 5px 5px 5px #aaaaaa;
+}

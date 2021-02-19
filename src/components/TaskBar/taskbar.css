@@ -1,0 +1,15 @@
+.taskbar {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.taskbar_button {
+    padding: 10px 20px;
+    margin: 2px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    background-color: rgb(54, 133, 71);
+    color: white;
+    font-weight: bold;
+}
+

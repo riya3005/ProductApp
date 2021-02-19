@@ -1,0 +1,23 @@
+.pagination {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.pagination button{
+    border-radius: 4px;
+    border: 1px solid gray;
+    margin: 0 5px;
+
+}
+
+.pageNumber {
+    padding: 5px;
+    cursor: pointer;
+}
+
+.selectedPageNumber {
+    font-weight: bold;
+    text-decoration: underline;
+    color:darkblue
+}
